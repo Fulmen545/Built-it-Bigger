@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jokes</string>
+    <string name="house">House of Jokes</string>
+    <string name="block">Comedian has a block. No joke.</string>
+</resources>
