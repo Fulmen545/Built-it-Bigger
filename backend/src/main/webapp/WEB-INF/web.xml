@@ -12,7 +12,7 @@
     </servlet>
     <servlet-mapping>
         <!-- V2: Start of v2 section -->
-        <servlet-name>EndpointsServlet</servlet-name>
+        <servlet-name>SystemServiceServlet</servlet-name>
         <url-pattern>/_ah/api/*</url-pattern>
         <!-- V2: End of v2 section -->
     </servlet-mapping>
